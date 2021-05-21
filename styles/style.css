@@ -1,0 +1,43 @@
+html {
+    font-family: 'KoHo', sans-serif;
+    background-color: #181716;
+}
+h1 {
+    text-align:center;
+    font-size: 60px;
+    margin: 0;
+    color: #ec1111;
+    text-shadow: 3px 3px 1px rgb(231, 230, 169);
+  
+     
+}
+h2 {
+    font-size:40px;
+    color: orange;
+    margin: 0 ;
+    padding : 10px;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid rgb(231, 19, 19);
+}
+p{
+    color: antiquewhite;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 10px;
+  }
+figcaption {
+    text-align: center;
+    color:rgb(38, 219, 219)
+    
+}
+a{
+    color:#ec1111;
+}
+
+
